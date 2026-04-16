@@ -41,8 +41,8 @@
 
 <td width="45%" align="center">
 
-<!-- 3D / Animated Dev Image -->
-<img src="https://raw.githubusercontent.com/saadeghi/files/main/dark-mode.gif" width="100%" />
+<!-- ✅ WORKING ANIMATION -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
