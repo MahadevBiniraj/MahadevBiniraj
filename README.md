@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a **Flutter Developer** at **Portfolix Tech & Portfolio Builders**
-- 💬 Ask me about **Flutter, Dart, Java**
 - 📫 Reach me at **mahadevbiniraj6@gmail.com**
 - ⚡ Passionate about building smooth and scalable mobile applications
 
