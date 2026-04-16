@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced Mobile App Development with Flutter**
+- 💼 Currently working as a **Flutter Developer** at **Portfolix Entreprise & Portfolio Builders**
 - 💬 Ask me about **Flutter, Dart, Java**
 - 📫 Reach me at **mahadevbiniraj6@gmail.com**
-- ⚡ Passionate about building smooth and scalable mobile apps
+- ⚡ Passionate about building smooth and scalable mobile applications
 
 ---
 
