@@ -1,28 +1,82 @@
-<h1 align="center">Hi, I'm Mahadev Biniraj</h1>
-<h3 align="center"> Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm Mahadev Biniraj</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevbiniraj&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevbiniraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadevbiniraj" alt="mahadevbiniraj" /></a> </p>
-
-- 🌱 I’m currently learning **Mobile Application Development-Flutter**
-
-- 💬 Ask me about **Dart,java,flutter**
-
-- 📫 How to reach me **mahadevbiniraj6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahadev b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadev b" height="30" width="40" /></a>
-<a href="https://fb.com/mahadev biniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahadev biniraj" height="30" width="40" /></a>
-<a href="https://instagram.com/mahadevbiniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahadevbiniraj" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer;Dart+%7C+Java+Enthusiast;Building+Beautiful+Mobile+Apps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahadevbiniraj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadevbiniraj&show_icons=true&locale=en&layout=compact" alt="mahadevbiniraj" /></p>
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahadevbiniraj&theme=algolia&margin-w=10&margin-h=10" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadevbiniraj&show_icons=true&locale=en" alt="mahadevbiniraj" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadevbiniraj&" alt="mahadevbiniraj" /></p>
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **Advanced Mobile App Development with Flutter**
+- 💬 Ask me about **Flutter, Dart, Java**
+- 📫 Reach me at **mahadevbiniraj6@gmail.com**
+- ⚡ Passionate about building smooth and scalable mobile apps
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/mahadevbiniraj" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://instagram.com/mahadevbiniraj" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="https://facebook.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadevbiniraj&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadevbiniraj&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevbiniraj&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadevbiniraj&theme=tokyo-night" />
+</p>
+
+---
+
+### ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
