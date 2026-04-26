@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahadev Biniraj</h1>
+<h1 align="center"> I'm Mahadev Biniraj</h1>
 <h3 align="center">🚀 Flutter Developer | Building Scalable Mobile Experiences</h3>
 
 ---
