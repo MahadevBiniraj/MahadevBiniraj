@@ -1,7 +1,7 @@
 <h1 align="center">Mahadev Biniraj</h1>
 
 <h3 align="center">
-Senior Flutter Developer • Mobile Application Architect • Scalable Cross-Platform Solutions
+ Flutter Developer • Mobile Application Architect • Scalable Cross-Platform Solutions
 </h3>
 
 <p align="center">
