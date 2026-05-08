@@ -28,7 +28,7 @@ Building premium mobile experiences with performance-focused architecture, clean
 
 ## 🚀 Professional Summary
 
-Experienced Flutter Developer specializing in high-performance cross-platform applications, scalable mobile architectures, and modern UI engineering.
+ Flutter Developer specializing in high-performance cross-platform applications, scalable mobile architectures, and modern UI engineering.
 
 Focused on delivering production-grade mobile applications with:
 - Clean Architecture
